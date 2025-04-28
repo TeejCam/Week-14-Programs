@@ -1,0 +1,64 @@
+{
+  "books": [
+    {
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "year": 1960,
+      "available": true
+    },
+    {
+      "title": "1984",
+      "author": "George Orwell",
+      "year": 1949,
+      "available": false
+    },
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "year": 1925,
+      "available": true
+    },
+    {
+      "title": "The Hunger Games",
+      "author": "Suzanne Collins",
+      "year": 2008,
+      "available": true
+    },
+    {
+      "title": "Fahrenheit 451",
+      "author": "Ray Bradbury",
+      "year": 1953,
+      "available": false
+    },
+    {
+      "title": "Catching Fire",
+      "author": "Suzanne Collins",
+      "year": 2009,
+      "available": false
+    },
+    {
+      "title": "Mockingjay",
+      "author": "Suzanne Collins",
+      "year": 2010,
+      "available": true
+    },
+    {
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "year": 1866,
+      "available": true
+    },
+    {
+      "title": "The Brothers Karamazov",
+      "author": "Fyodor Dostoevsky",
+      "year": 1880,
+      "available": false
+    },
+    {
+      "title": "White Nights",
+      "author": "Fyodor Dostoevsky",
+      "year": 1848,
+      "available": false
+    }
+  ]
+}
